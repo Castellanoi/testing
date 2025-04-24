@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Español",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/audio_3/playlist.m3u8"
 
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento", Tooncast
+#EXT-X-STREAM-INF:BANDWIDTH=3675000,FRAME-RATE=30.00,CODECS="avc1.42001f",AUDIO="audio"
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/track_2_3500/playlist.m3u8
