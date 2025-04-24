@@ -3,3 +3,4 @@
 
 #EXT-X-STREAM-INF:BANDWIDTH=3675000,FRAME-RATE=30.00,CODECS="avc1.42001f",AUDIO="audio"
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/track_2_3500/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/audio_3/playlist.m3u8
