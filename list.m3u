@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento", Tooncast
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento" audio-track="es", Tooncast
 http://45.5.117.57:8200/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast-alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento", Tooncast-alt
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast-alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento" audio-track="es", Tooncast-alt
 http://177.234.230.206:8011/play/a0es/index.m3u8
