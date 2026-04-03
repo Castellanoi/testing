@@ -1,7 +1,93 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento" audio-track="es", Tooncast
-http://45.5.117.57:8200/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast-alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Entretenimiento" audio-track="es", Tooncast-alt
-http://177.234.230.206:8011/play/a0es/index.m3u8
+#EXTINF:0,ARG - TNT Sports (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157585
+#EXTINF:0,ARG - TNT Sports (TV)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157584
+#EXTINF:0,ARG - DEPORTV (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157596
+#EXTINF:0,ARG - ESPN (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157558
+#EXTINF:0,ARG - ESPN 2 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157559
+#EXTINF:0,ARG - ESPN 3 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157560
+#EXTINF:0,ARG - ESPN 4 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157561
+#EXTINF:0,ARG - ESPN Premium (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157562
+#EXTINF:0,ARG - TV Publica (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157586
+#EXTINF:0,ARG - TV Publica (Z)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157587
+#EXTINF:0,ARG - TV Pública (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157578
+#EXTINF:0,ARG - TyC Sports (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157583
+#EXTINF:0,ARG - TyC Sports (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157580
+#EXTINF:0,ARG - TyC Sports (TV)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157614
+#EXTINF:0,ARG - A24 (Z)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157613
+#EXTINF:0,ARG - America TV (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157612
+#EXTINF:0,ARG - America TV (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157624
+#EXTINF:0,ARG - America TV (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157623
+#EXTINF:0,ARG - America TV (TV)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157622
+#EXTINF:0,ARG - Argentinisima (i)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157608
+#EXTINF:0,ARG - C5N (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157607
+#EXTINF:0,ARG - C5N (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157566
+#EXTINF:0,ARG - Canal 13 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157567
+#EXTINF:0,ARG - Canal 26 (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157594
+#EXTINF:0,ARG - Canal 26 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157568
+#EXTINF:0,ARG - Canal 9 (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157569
+#EXTINF:0,ARG - Cinear (Z)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157601
+#EXTINF:0,ARG - Ciudad Magazine (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157565
+#EXTINF:0,ARG - Crónica TV (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157572
+#EXTINF:0,ARG - Deportv (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157620
+#EXTINF:0,ARG - DeporTV (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157573
+#EXTINF:0,ARG - El Nueve (Z)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157595
+#EXTINF:0,ARG - El Nueve (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157621
+#EXTINF:0,ARG - El trece (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157591
+#EXTINF:0,ARG - LN + (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157592
+#EXTINF:0,ARG - LN+ (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157593
+#EXTINF:0,ARG - LN+ (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157574
+#EXTINF:0,ARG - Metro (i)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157606
+#EXTINF:0,ARG - Paka Paka (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157575
+#EXTINF:0,ARG - Telefe (TV)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157590
+#EXTINF:0,ARG - Telefe (L)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157589
+#EXTINF:0,ARG - Telefe Noticias (i)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157617
+#EXTINF:0,ARG - Telesur (i)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157604
+#EXTINF:0,ARG - TN (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157577
+#EXTINF:0,ARG - TV5 Monde (M)(720)
+http://tv.zapping.life:8080/wilmer25/kVBNvfAa2p/157579
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
